@@ -222,7 +222,8 @@ Para ejecutar los ejercicios se necesita:
 Clonar el repositorio utilizando Git:
 
 ```bash
-git clone https://github.com/Fede-Code-007/Practica-SQL-Server.git
+git clone https://github.com/Fede-Code-007/sqlserver-ejercicios-practicos.git
+
 ```
 
 Ingresar al directorio del proyecto:
